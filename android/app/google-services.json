@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "572638329170",
+    "firebase_url": "https://vitalik-2d811.firebaseio.com",
+    "project_id": "vitalik-2d811",
+    "storage_bucket": "vitalik-2d811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572638329170:android:3fec08765e70b6ff29a28b",
+        "android_client_info": {
+          "package_name": "io.yako.vitalik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572638329170-rfb8e82blh0viuf78fjoujkv7kdhhhlo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.yako.vitalik",
+            "certificate_hash": "28f14727081414617cb770e64e83ca8f4e2fc8d8"
+          }
+        },
+        {
+          "client_id": "572638329170-ntlkfp5tt8iogmuibp053r0e7434oshd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeBzqqx8afRmCZ_-7sGGuZXLRv7CdAFRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572638329170-ntlkfp5tt8iogmuibp053r0e7434oshd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
